@@ -14,5 +14,4 @@ void printcharsonnewline(char input[]) {
     char currentchar = input[index];
     printf("%c\n", currentchar);
   }
-  
 }
