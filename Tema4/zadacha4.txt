@@ -1,0 +1,2 @@
+Явор 9б клас
+gcc Zadacha4.c -lm -o Zadacha_4
